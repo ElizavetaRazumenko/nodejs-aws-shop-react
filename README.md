@@ -36,3 +36,15 @@ Runs tests in console, in browser or with coverage.
 ### `lint`, `prettier`
 
 Runs linting and formatting for all files in `src` folder.
+
+### `npm run deploy`
+
+Add and configure S3 bucket creation and website deployment using AWS CDK and CloudFront Distribution using AWS CDK
+
+### `npm run destroy`
+
+Destroy the stack
+
+[Link to S3 bucket website](http://liza-aws-react-web-app-bucket.s3-website.eu-central-1.amazonaws.com/)
+
+[Link to CloudFront website](https://dvtolf4nt67kd.cloudfront.net)
